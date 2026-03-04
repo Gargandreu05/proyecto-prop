@@ -1,0 +1,15 @@
+ __  .__   __.  _______   __________   ___ 
+|  | |  \ |  | |       \ |   ____\  \ /  / 
+|  | |   \|  | |  .--.  ||  |__   \  V  /  
+|  | |  . `  | |  |  |  ||   __|   >   <   
+|  | |  |\   | |  '--'  ||  |____ /  .  \  
+|__| |__| \__| |_______/ |_______/__/ \__\ 
+                                           
+
+Aquesta és la carpeta FONTS. Aquí dins es trobarà tot l'esquelet utilitzat per al projecte i les implementacions en Java de les classes.
+
+S'ha utilitzat l'esquelet Gradle, per a informació de com executar-lo llegir el README.md. 
+
+El Gradle conté les seves carpetes per a funcionar.
+
+La carpeta src és la que conté els codis fonts de les classes.

@@ -1,0 +1,12 @@
+<Resposta a la pregunta 1>
+<Resposta a la pregunta 2>
+...
+<Resposta a la pregunta N>
+END
+
+--------------------
+Format de <Resposta a la pregunta N-èssima>
+LLIURE -> Una frase que indiqui la resposta per exemple: El meu nom es Roger
+NUMERIC -> Un número que indica la resposta per exemple: 14
+UNIC -> Un número que identifica la opció que vol triar de la pregunta per exemple: 1
+MULTIPLE -> Una llista de números separats per espai que indiquen les opcions a triar de la pregunta per exemple: 1 2 3

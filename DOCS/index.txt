@@ -1,0 +1,16 @@
+ __  .__   __.  _______   __________   ___ 
+|  | |  \ |  | |       \ |   ____\  \ /  / 
+|  | |   \|  | |  .--.  ||  |__   \  V  /  
+|  | |  . `  | |  |  |  ||   __|   >   <   
+|  | |  |\   | |  '--'  ||  |____ /  .  \  
+|__| |__| \__| |_______/ |_______/__/ \__\ 
+                                           
+Equip: Grup 42.2
+Lliurament: 3a Entrega
+Projecte: Sistema de gestió d'enquestes i respostes
+
+Aquesta carpeta conté tota la documentació final del projecte:
+
+- Directori javadoc: Tota la documentació dels mètodes i atributs del codi (per a obrir-la executar el index.html dins la carpeta javadoc).
+- Manual d'Usuari: Instruccions de com utilitzar l'aplicació per a l'usuari
+- Jocs de Prova: Proves fetes de l'aplicacio explicades pas a pas

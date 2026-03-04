@@ -1,0 +1,10 @@
+{
+  "type": "USER",
+  "id": 2,
+  "nom": "Hola",
+  "password": "1234",
+  "email": "",
+  "edat": -1,
+  "creades": [],
+  "respostes": []
+}

@@ -1,0 +1,33 @@
+{
+    "id": 3,
+    "titol": "Enquesta Servei Tècnic",
+    "creador": "4",
+    "preguntes": [
+    {
+     "tipus": "UNIC",
+     "enunciat": "Què tan ràpida va ser la resposta inicial del nostre equip de suport?",
+     "opcions": [
+      "Molt Ràpida",
+      "Ràpida",
+      "Acceptable",
+      "Lenta",
+      "Molt Lenta"
+     ]
+    },
+    {
+     "tipus": "UNIC",
+     "enunciat": "Es va resoldre la teva incidència en el primer contacte?",
+     "opcions": [
+      "Sí",
+      "No",
+      "Vaig necessitar més d'un contacte"
+     ]
+    },
+    {
+     "tipus": "LLIURE",
+     "enunciat": "Si us plau, comenta breument com podríem millorar el servei.",
+     "opcions": [
+     ]
+    }
+  ]
+}

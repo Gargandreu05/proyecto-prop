@@ -1,0 +1,22 @@
+ __  .__   __.  _______   __________   ___ 
+|  | |  \ |  | |       \ |   ____\  \ /  / 
+|  | |   \|  | |  .--.  ||  |__   \  V  /  
+|  | |  . `  | |  |  |  ||   __|   >   <   
+|  | |  |\   | |  '--'  ||  |____ /  .  \  
+|__| |__| \__| |_______/ |_______/__/ \__\ 
+                                           
+
+                                    
+Directori EXE
+Path absolut: /EXE
+
+Descripció del Directori:
+Aquest directori conté els run per executar els drivers interactius del projecte i els jocs d'assaig necessaris per a les proves.
+
+Aquest projecte està gestionat amb Gradle, que es troba a la carpeta /FONTS. Aquest esquelet s'encarrega de gestionar automàticament totes les dependències del projecte, per tant al executar gradle es generen els fitxers .jar (com gson, junit, mockito, etc.).
+
+Els scripts (.bat i .sh) en aquest directori són llançadors que simplement criden a la tasca de Gradle corresponent per facilitar l'execució.
+
+Els fitxers enquestai.txt i respostai_j.txt són fitxers de prova d'input per a importar amb els drivers. la i és l'enquesta i éssima i la j son la j éssima resposta.
+
+A la carpeta Formats es troben els fitxers formatImportarEnquesta/Resposta.txt que indiquen com generar enquestes/respostes customitzades.

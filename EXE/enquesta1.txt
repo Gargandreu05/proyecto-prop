@@ -1,0 +1,28 @@
+Enquesta de Menjar Preferit
+F UNIC
+P Quin és el teu menjar preferit?
+O
+Pizza
+Pasta
+Amanida
+Sopa
+Hamburguesa
+END_OPCIONS
+F MULTIPLE
+P Quins d'aquests aliments menges habitualment?
+O
+Carn
+Peix
+Verdura
+Llegums
+Fruita
+END_OPCIONS
+F NUMERIC
+P Quants àpats fas al dia?
+O
+END_OPCIONS
+F LLIURE
+P Explica per què t'agrada el teu menjar preferit:
+O
+END_OPCIONS
+END

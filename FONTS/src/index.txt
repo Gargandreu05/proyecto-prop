@@ -1,0 +1,15 @@
+ __  .__   __.  _______   __________   ___ 
+|  | |  \ |  | |       \ |   ____\  \ /  / 
+|  | |   \|  | |  .--.  ||  |__   \  V  /  
+|  | |  . `  | |  |  |  ||   __|   >   <   
+|  | |  |\   | |  '--'  ||  |____ /  .  \  
+|__| |__| \__| |_______/ |_______/__/ \__\ 
+                                           
+
+Aquesta carpeta és la que utilitza l'esquelet Gradle per guardar els codis fonts, està dividit en dues subcarpetes:
+
+- Main: Aquí es trobaran tots els codis font implementats pels membres del grup.
+
+- Test: Aquí es trobaran tots els tests unitaris fets amb JUnit
+
+- Resources: Aquí es troben tots els elements necessaris per a la interfície gràfica de l'aplicació.

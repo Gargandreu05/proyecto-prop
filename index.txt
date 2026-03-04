@@ -1,0 +1,22 @@
+ __  .__   __.  _______   __________   ___ 
+|  | |  \ |  | |       \ |   ____\  \ /  / 
+|  | |   \|  | |  .--.  ||  |__   \  V  /  
+|  | |  . `  | |  |  |  ||   __|   >   <   
+|  | |  |\   | |  '--'  ||  |____ /  .  \  
+|__| |__| \__| |_______/ |_______/__/ \__\ 
+                                           
+Equip: Grup 42.2
+Lliurament:3a Entrega
+Projecte: Sistema de gestió d'enquestes i respostes
+
+Aquest projecte es divideix en diverses carpetes i arxius, en les quals els diferents fitxers es troben distribuits:
+
+- FONTS: On es troba tot l'esquelet del projecte (Gradle) i la codificació de les classes i els tests unitaris.
+
+- EXE: On es troben tots els executables per provar el codi (per a l'entrega 1 son els executables per als drivers) i els fitxers d'input dels casos de prova.
+
+- DOCS: On es troba tota la documentació del projecte, incloent la documentació del codi feta amb javadoc, els diagrames de classes i de casos d'ús i l'explicació de les estructures de dades i algorismes implementats.
+
+- DATA: Carpeta on es guardaran totes les dades de persistència de l'aplicació (es crearà tota sola)
+
+- membres.txt: Aquí s'explica com s'ha repartit la feina del grup i quines classes ha implementat cadascú.

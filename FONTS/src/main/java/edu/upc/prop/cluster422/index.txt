@@ -1,0 +1,12 @@
+ __  .__   __.  _______   __________   ___ 
+|  | |  \ |  | |       \ |   ____\  \ /  / 
+|  | |   \|  | |  .--.  ||  |__   \  V  /  
+|  | |  . `  | |  |  |  ||   __|   >   <   
+|  | |  |\   | |  '--'  ||  |____ /  .  \  
+|__| |__| \__| |_______/ |_______/__/ \__\ 
+                                           
+Aquesta és la carpeta on es separen les implementacions segons les capes del projecte.
+
+A la carpeta Domini trobam totes les classes implementades, amb els algorismes i els controladors.
+
+A la carpeta Drivers trobam els Drivers per a poder provar el projecte.

@@ -1,0 +1,13 @@
+ __  .__   __.  _______   __________   ___ 
+|  | |  \ |  | |       \ |   ____\  \ /  / 
+|  | |   \|  | |  .--.  ||  |__   \  V  /  
+|  | |  . `  | |  |  |  ||   __|   >   <   
+|  | |  |\   | |  '--'  ||  |____ /  .  \  
+|__| |__| \__| |_______/ |_______/__/ \__\ 
+                                           
+
+A aquesta carpeta es trobaran els codis dels tests unitaris fets amb JUnit (v4). Està dividida en subcarpetes segons si els tests són de les classes o dels algorismes.
+
+- Algorismes: Tests de prova per als algorismes, no eren obligatoris però serveixen per a comprovar que funcionen realment.
+
+- Classes: Tests unitaris per a cada classes, amb comprovació d'excepcions i casos concrets i extrems.

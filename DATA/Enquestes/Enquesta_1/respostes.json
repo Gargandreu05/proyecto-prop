@@ -1,0 +1,102 @@
+[
+  {
+    "id_usuari": 4,
+    "respostes_preguntes": [
+      {
+          "index": 0,
+          "tipus": "INTEGER",
+          "valor": 2
+        }
+,      {
+          "index": 1,
+          "tipus": "VECTOR",
+          "valor": [1, 2, 3]
+        }
+,      {
+          "index": 2,
+          "tipus": "INTEGER",
+          "valor": 2
+        }
+,      {
+          "index": 3,
+          "tipus": "STRING",
+          "valor": "Resposta generada automàticament número 1."
+        }
+    ]
+  },
+  {
+    "id_usuari": 5,
+    "respostes_preguntes": [
+      {
+          "index": 0,
+          "tipus": "INTEGER",
+          "valor": 3
+        }
+,      {
+          "index": 1,
+          "tipus": "VECTOR",
+          "valor": [1, 2, 3]
+        }
+,      {
+          "index": 2,
+          "tipus": "INTEGER",
+          "valor": 3
+        }
+,      {
+          "index": 3,
+          "tipus": "STRING",
+          "valor": "Resposta generada automàticament número 2."
+        }
+    ]
+  },
+  {
+    "id_usuari": 6,
+    "respostes_preguntes": [
+      {
+          "index": 0,
+          "tipus": "INTEGER",
+          "valor": 4
+        }
+,      {
+          "index": 1,
+          "tipus": "VECTOR",
+          "valor": [1, 2, 3]
+        }
+,      {
+          "index": 2,
+          "tipus": "INTEGER",
+          "valor": 4
+        }
+,      {
+          "index": 3,
+          "tipus": "STRING",
+          "valor": "Resposta generada automàticament número 3."
+        }
+    ]
+  },
+  {
+    "id_usuari": 7,
+    "respostes_preguntes": [
+      {
+          "index": 0,
+          "tipus": "INTEGER",
+          "valor": 2
+        }
+,      {
+          "index": 1,
+          "tipus": "VECTOR",
+          "valor": [1, 2, 3]
+        }
+,      {
+          "index": 2,
+          "tipus": "INTEGER",
+          "valor": 7
+        }
+,      {
+          "index": 3,
+          "tipus": "STRING",
+          "valor": "Resposta generada automàticament número 6."
+        }
+    ]
+  }
+]

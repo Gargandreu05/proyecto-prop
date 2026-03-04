@@ -1,0 +1,22 @@
+{
+    "id": 2,
+    "titol": "Enquesta sobre consum",
+    "creador": "4",
+    "preguntes": [
+    {
+     "tipus": "NUMERIC",
+     "enunciat": "Quants lactis consumeixes a la setmana?",
+     "opcions": [
+     ]
+    },
+    {
+     "tipus": "MULTIPLE",
+     "enunciat": "On compres els productes?",
+     "opcions": [
+      "Mercadona",
+      "Bon Preu",
+      "Consum"
+     ]
+    }
+  ]
+}

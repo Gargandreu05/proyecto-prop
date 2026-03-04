@@ -1,0 +1,15 @@
+ __  .__   __.  _______   __________   ___ 
+|  | |  \ |  | |       \ |   ____\  \ /  / 
+|  | |   \|  | |  .--.  ||  |__   \  V  /  
+|  | |  . `  | |  |  |  ||   __|   >   <   
+|  | |  |\   | |  '--'  ||  |____ /  .  \  
+|__| |__| \__| |_______/ |_______/__/ \__\ 
+                                           
+
+A aquesta carpeta es troben tots els codis font de les classes del domini codificades. Està dividida en subcarpetes segons la utilitat de les classes.
+
+- Algorismes: Codis necessaris per a dur a terme el clústering, allà estàn implementats els algorismes i les seves evaluacions.
+
+- Classes: Aquesta carpeta conté totes les classes bàsiques del projecte.
+
+- Controladors: Aquesta carpeta conté tots els controladors bàsics per fer funcionar les classes.

@@ -1,0 +1,22 @@
+Enquesta Servei Tècnic
+F UNIC
+P Què tan ràpida va ser la resposta inicial del nostre equip de suport?
+O
+Molt Ràpida
+Ràpida
+Acceptable
+Lenta
+Molt Lenta
+END_OPCIONS
+F UNIC
+P Es va resoldre la teva incidència en el primer contacte?
+O
+Sí
+No
+Vaig necessitar més d'un contacte
+END_OPCIONS
+F LLIURE
+P Si us plau, comenta breument com podríem millorar el servei.
+O
+END_OPCIONS
+END

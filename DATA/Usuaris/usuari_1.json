@@ -1,0 +1,11 @@
+{
+  "type": "ADMIN",
+  "id": 1,
+  "nom": "admin",
+  "password": "admin",
+  "email": "",
+  "edat": -1,
+  "acreditador": "Developer",
+  "creades": [],
+  "respostes": []
+}

@@ -1,0 +1,24 @@
+<Titol Enquesta>
+F <Format Pregunta> {"UNIC", "MULTIPLE", "LLIURE", "NUMERIC"}
+P <Pregunta Enquesta>
+O
+<Opcio Pregunta> { només per a formats UNIC i MULTIPLE }
+<Opcio Pregunta>
+...
+END_OPCIONS
+F <Format Pregunta>
+P <Pregunta Enquesta>
+O
+<Opcio Pregunta>
+<Opcio Pregunta>
+...
+END_OPCIONS
+...
+F <Format Pregunta>
+P <Pregunta Enquesta>
+O
+<Opcio Pregunta>
+<Opcio Pregunta>
+...
+END_OPCIONS
+END

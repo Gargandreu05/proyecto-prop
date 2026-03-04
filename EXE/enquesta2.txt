@@ -1,0 +1,23 @@
+Enquesta Hàbits de Lectura
+F UNIC
+P Quina freqüència llegeixes llibres (ficció o no-ficció)?
+O
+Diàriament
+Diverses vegades a la setmana
+Un cop per setmana
+Un cop al mes o menys
+Mai
+END_OPCIONS
+F MULTIPLE
+P Quin format de lectura prefereixes? (Selecciona totes les opcions aplicables)
+O
+Llibre imprès (físic)
+Llibre electrònic (eBook)
+Audiollibre
+Revistes/Articles en línia
+END_OPCIONS
+F NUMERIC
+P Quants llibres completes de mitjana a l'any?
+O
+END_OPCIONS
+END

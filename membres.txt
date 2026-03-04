@@ -1,0 +1,97 @@
+.___  ___.  _______ .___  ___. .______   .______       _______     _______.
+|   \/   | |   ____||   \/   | |   _  \  |   _  \     |   ____|   /       |
+|  \  /  | |  |__   |  \  /  | |  |_)  | |  |_)  |    |  |__     |   (----`
+|  |\/|  | |   __|  |  |\/|  | |   _  <  |      /     |   __|     \   \    
+|  |  |  | |  |____ |  |  |  | |  |_)  | |  |\  \----.|  |____.----)   |   
+|__|  |__| |_______||__|  |__| |______/  | _| `._____||_______|_______/    
+                                                                           
+Equip: Grup 42.2
+Lliurament: 1a Entrega
+Projecte: Sistema de gestió d'enquestes i respostes
+
+Membres de l'equip:
+-------------------------------------------------
+Roger Guinovart Plana
+Ramon Sánchez Torra
+Andreu Puerto Cortés
+Guillem Revuelta Jordan
+Enzo Miquel Tarrago
+
+Emails dels membres de l'equip:
+-------------------------------------------------
+roger.guinovart@estudiantat.upc.edu
+ramon.sanchez@estudiantat.upc.edu
+andreu.puerto@estudiantat.upc.edu
+guillem.revuelta@estudiantat.upc.edu
+enzo.miquel@estudiantat.upc.edu
+
+
+Relació de classes implementades per membre de l'equip:
+-------------------------------------------------
+Roger Guinovart Plana
+-------------------------------------------------
+- RespostaEnquesta
+- CtrlEnquesta
+- DriverEnquesta
+- GestorEnquestes
+- Modificacions al CtrlPersistencia
+- Modificacions a algunes Vistes d'Usuari
+
+-------------------------------------------------
+Ramon Sánchez Torra
+-------------------------------------------------
+- Usuari
+- Administrador
+- CtrlDomini
+- CtrlUsuari
+- DriverUsuari
+- CtrlPersistencia
+- GestorUsuaris
+
+-------------------------------------------------
+Andreu Puerto Cortés
+-------------------------------------------------
+- Enquesta
+- K-Medoids
+- Cluster
+- StrategyClustering
+- Hierarchical
+- CtrlPresentacio
+- CtrlPresentacioEnquestes
+- CtrlPresentacioUsuaris
+- VistaCrearEnquesta
+- VistaEnquestaClustering
+- VistaEnquestaImportar
+- VistaEnquestaImportarResposta
+- VistaEnquestaMenu
+- VistaEnquestaModificar
+- VistaEnquestaRespondre
+- VistaEnquestaSeleccio
+- VistaEnquestesPrincipal
+- VistaGrafic
+- VistaLogin
+- VistaRegistre
+- VistaUsuarisPrincipal
+- VistaBenvinguda
+- VistaCredits
+- VistaMenu
+- VistaPrincipal
+
+-------------------------------------------------
+Guillem Revuelta Jordan
+-------------------------------------------------
+- Pregunta (i subclasses)
+- K-Means
+- CtrlPresentacioUsuaris
+- VistaAdmin
+- VistaEnquestaUsuari
+- VistaUsuaris
+- VistaUsuarisPrincipal
+
+-------------------------------------------------
+Enzo Miquel Tarrago
+-------------------------------------------------
+- RespostaPregunta (i subclasses)
+- K-Means++
+- EvaluacioClustering
+- GestorRespostes

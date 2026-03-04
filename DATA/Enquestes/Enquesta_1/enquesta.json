@@ -1,0 +1,41 @@
+{
+    "id": 1,
+    "titol": "Enquesta de Menjar Preferit",
+    "creador": "2",
+    "preguntes": [
+    {
+     "tipus": "UNIC",
+     "enunciat": "Quin és el teu menjar preferit?",
+     "opcions": [
+      "Pizza",
+      "Pasta",
+      "Amanida",
+      "Sopa",
+      "Hamburguesa"
+     ]
+    },
+    {
+     "tipus": "MULTIPLE",
+     "enunciat": "Quins d'aquests aliments menges habitualment?",
+     "opcions": [
+      "Carn",
+      "Peix",
+      "Verdura",
+      "Llegums",
+      "Fruita"
+     ]
+    },
+    {
+     "tipus": "NUMERIC",
+     "enunciat": "Quants àpats fas al dia?",
+     "opcions": [
+     ]
+    },
+    {
+     "tipus": "LLIURE",
+     "enunciat": "Explica per què t'agrada el teu menjar preferit:",
+     "opcions": [
+     ]
+    }
+  ]
+}
